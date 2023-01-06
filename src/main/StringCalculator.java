@@ -4,7 +4,7 @@ import java.util.StringTokenizer;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-public class StringCalculator {
+public class StringCalculator { 
     public int add(String numbers) {
 
         if (numbers == null || numbers.isEmpty()) {
